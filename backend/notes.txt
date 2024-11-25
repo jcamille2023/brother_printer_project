@@ -1,0 +1,1 @@
+Server (backend) depends on brother_ql, pyusb, lisbusb-win32 (windows), websockets 

@@ -1,0 +1,23 @@
+{
+  "name": "brother_printer_project",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcamille2023/brother_printer_project.git"
+  },
+  "author": "Jossaya Camille",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcamille2023/brother_printer_project/issues"
+  },
+  "homepage": "https://github.com/jcamille2023/brother_printer_project#readme",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
